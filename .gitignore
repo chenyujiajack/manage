@@ -1,0 +1,7 @@
+# Project exclude paths
+/manage_dao/target/
+/manage_domain/target/
+/manage_service/target/
+/manage_utils/target/
+/manage_web/target/
+/out/
